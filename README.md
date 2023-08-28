@@ -1,4 +1,11 @@
 ### Hi there 👋
+I'm Nicolas Pereiro, i'm 4 years old.
+- 🔭 I’m currently working on making remove method(unstable)
+- 🤔 I’m looking for help with making remove method(please)
+- 💬 Ask me about making remove method
+- ⚡ Fun fact: I hate the remove method
+- 📫 How to reach me: n.pereiro0@gmail.com (please send the remove method)
+
 
 <!--
 **NicolasPereiro/NicolasPereiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
